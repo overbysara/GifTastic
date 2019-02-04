@@ -1,0 +1,19 @@
+body {
+    background-image: url("dots.png"); 
+}
+
+h1 {
+    font-family: 'Staatliches';
+    font-size: 85px;
+    color: rgb(114, 79, 148);
+    text-shadow: 2px 2px grey;
+}
+
+.container {
+    background-color: white;
+    width: 700px;
+}
+
+h6 {
+    text-align:center;
+}
